@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/shared-folder/output/task1/part-00000-8f80b379-228c-4f7b-8248-36043175f5c6-c000.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
